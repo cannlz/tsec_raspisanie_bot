@@ -1,0 +1,7 @@
+/.vscode
+/chromedriver.exe
+/poetry.lock
+/pyproject.toml
+/TG_tsecBotNew.rar
+/venv
+/__pycache__
